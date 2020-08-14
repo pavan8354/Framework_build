@@ -19,7 +19,8 @@ public class Test_Maven {
 		System.out.println("Sub Test Method------>");
 		int a = 10;
 		int b = 20;	
-		Assert.assertEquals(10, b-a);	
+		Assert.assertEquals(10, b-a);
+		System.out.println("Minor Changes Detected------>");
 	}	
 @Test
 
