@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-14T11:49:01 IST" name="Default suite" finished-at="2020-08-14T11:49:02 IST" duration-ms="196">
+    <groups>
+    </groups>
+    <test started-at="2020-08-14T11:49:01 IST" name="Default test" finished-at="2020-08-14T11:49:02 IST" duration-ms="196">
+      <class name="Com.Qa.TestPackage.Test_Maven">
+        <test-method signature="Divtest()[pri:0, instance:Com.Qa.TestPackage.Test_Maven@484970b0]" started-at="2020-08-14T11:49:02 IST" name="Divtest" finished-at="2020-08-14T11:49:02 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Divtest -->
+        <test-method signature="Multest()[pri:0, instance:Com.Qa.TestPackage.Test_Maven@484970b0]" started-at="2020-08-14T11:49:02 IST" name="Multest" finished-at="2020-08-14T11:49:02 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multest -->
+        <test-method signature="Subtest()[pri:0, instance:Com.Qa.TestPackage.Test_Maven@484970b0]" started-at="2020-08-14T11:49:02 IST" name="Subtest" finished-at="2020-08-14T11:49:02 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtest -->
+        <test-method signature="Sumtest()[pri:0, instance:Com.Qa.TestPackage.Test_Maven@484970b0]" started-at="2020-08-14T11:49:02 IST" name="Sumtest" finished-at="2020-08-14T11:49:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sumtest -->
+      </class> <!-- Com.Qa.TestPackage.Test_Maven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
